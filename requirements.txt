@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+requests
+pyyaml
+python-dotenv
+openai==0.28
